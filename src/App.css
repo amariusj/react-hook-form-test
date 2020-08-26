@@ -9,10 +9,9 @@ body {
 
 form {
   text-align: left;
-  margin: 0 15rem;
 }
 
-label, h1 {
+label, h1, section, h2 {
   color: white;
 }
 
